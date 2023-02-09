@@ -1,6 +1,6 @@
 <div align="center">
 
-# Random Hex Code Generator Using jQuery | Crimson 
+# Random Hex Code Generator using with Jquery | Crimson 
 
 <img src="admin/base.png">
 
